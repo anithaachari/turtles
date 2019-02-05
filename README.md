@@ -15,4 +15,4 @@ For Turtles documentation visit:https://docs.python.org/2/library/turtle.html
 from turtle import*
 
 Run the turtles program 
-By command:flagturtle.py
+By command:python flagturtle.py
