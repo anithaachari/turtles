@@ -15,4 +15,5 @@ Create new python file and import turtle as
 from turtle import*
 
 Run the turtles program 
-By command:python flagturtle.py
+
+By command:  python flagturtle.py
